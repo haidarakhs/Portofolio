@@ -24,7 +24,7 @@ section{
 }
 body{
     background: var(--bg-color);
-    color: var(--text-color);
+    color:dijalal var(--text-color);
 
 }
 .header{
@@ -151,10 +151,11 @@ font-weight: 500;
 color: var(--bg-color);
 letter-spacing: .1rem;
 transition: .5s ease;
+margin: 2rem;
 }
 .btn:hover{
     box-shadow: none;
-    
+   
 }
 .about{
     display: flex;
@@ -168,6 +169,7 @@ transition: .5s ease;
 .heading{
     text-align: center;
     font-size: 4.5rem;
+    margin: 2rem;
 }
 .about-content h2{
     text-align: left;
@@ -175,10 +177,12 @@ transition: .5s ease;
 }
 .about-content h3{
     font-size: 2.6rem;
+    margin: 2rem;
 }
 .about-content p{
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+    margin: 2rem;
 }
 .service h2{
 margin-bottom: 5rem;
